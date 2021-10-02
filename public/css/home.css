@@ -1,0 +1,21 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #4099eb !important;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    background-color: white;
+    padding: 32px 20px;
+    width: 375px;
+    border-radius: 16px;
+}
